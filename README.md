@@ -1,6 +1,6 @@
 # Polymer Chemistry Informed Neural Networks (PCINNs) for data-driven modelling of polymerization processes
 This repository contains code for the implementation of Polymer Chemistry Informed Neural Networks (PCINNs), a method that combines kinetic models of polymerization processes with neural network training to improve predictive accuracy. The approach mitigates common challenges, such as data limitations and poor extrapolation, by leveraging domain knowledge to enhance model reliability.
-More details are described in [our paper](https://doi.org/10.1039/D4PY00995A).
+More details are described in [the PolymatGIQ paper](https://doi.org/10.1039/D4PY00995A).
 
 Primary implementation notebook: `MMA_PCINN.ipynb`  
 Upstream repository: https://github.com/PolymatGIQ/PCINN
@@ -13,9 +13,9 @@ source .venv/Scripts/activate   # Windows Git Bash
 pip install torch==2.10.0 numpy==2.4.2 pandas==2.2.3 matplotlib==3.10.8 openpyxl==3.1.5 "ipykernel>=6.29,<7"
 ```
 
-Open `MMA_PCINN.ipynb` in Jupyter or VS Code and run all cells. The notebook trains a baseline neural network and a PCINN, then plots train/test loss curves for both.
+Open `MMA_PCINN.ipynb` in Jupyter or Cursor/VSCode/etc. and run all cells. The notebook trains a baseline neural network and a PCINN, then plots train/test loss curves for both.
 
-The original script `MMA_PCINN.py` is retained as a reference.
+The original script `MMA_PCINN.py` is retained for reference.
 
 ## Notebook Notes
 
@@ -36,4 +36,4 @@ The original script `MMA_PCINN.py` is retained as a reference.
 
 ## LICENSE
 This repository is licensed under CC BY-NC 4.0.
-For more information please refer to the [license section](https://github.com/PolymatGIQ/PCINN/blob/main/License.md).
+For more information please refer to the [license section](https://github.com/Ari-S-123/PCINN/blob/main/License.md).
