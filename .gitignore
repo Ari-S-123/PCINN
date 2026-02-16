@@ -39,12 +39,3 @@ Thumbs.db
 tmp/
 *.tmp
 *.log
-
-# Training outputs and ad-hoc artifacts
-checkpoints/
-runs/
-outputs/
-*.ckpt
-*.pth
-*.pt
-!MMA_solution_net.pt
