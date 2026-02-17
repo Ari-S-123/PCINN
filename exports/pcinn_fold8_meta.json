@@ -1,0 +1,11 @@
+{
+  "architecture": "NNmodel",
+  "training_method": "pcinn",
+  "fold": 8,
+  "epochs": 10000,
+  "lr": 0.0003,
+  "total_jac_samples": 32,
+  "final_test_loss": 0.004031270742416382,
+  "is_best": false,
+  "pytorch_version": "2.10.0+cpu"
+}
