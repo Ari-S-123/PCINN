@@ -39,3 +39,6 @@ Thumbs.db
 tmp/
 *.tmp
 *.log
+
+Xdata.zip
+Ydata.zip
