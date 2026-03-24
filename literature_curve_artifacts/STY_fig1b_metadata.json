@@ -1,0 +1,16 @@
+{
+  "source_file": "STY_fig1b.xlsx",
+  "system": "STY",
+  "x_label": "t_res",
+  "y_label": "-ln(1-conversion)",
+  "series_labels": [
+    50.0,
+    60.0,
+    70.0,
+    80.0
+  ],
+  "n_points": 242,
+  "rmse": 0.001858920673839748,
+  "mae": 0.0014814558671787381,
+  "r2": 0.9699668861601692
+}

@@ -1,0 +1,16 @@
+{
+  "source_file": "MMA_fig1a.xlsx",
+  "system": "MMA",
+  "x_label": "t_res",
+  "y_label": "-ln(1-conversion)",
+  "series_labels": [
+    60.0,
+    70.0,
+    80.0,
+    90.0
+  ],
+  "n_points": 242,
+  "rmse": 0.002135463757440448,
+  "mae": 0.0016935867024585605,
+  "r2": 0.9945126304031106
+}
