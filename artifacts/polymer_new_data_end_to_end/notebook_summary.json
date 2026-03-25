@@ -1,0 +1,26 @@
+{
+  "project_root": "C:\\Users\\Ari\\Desktop\\GitHub Projects\\PCINN",
+  "artifact_root": "C:\\Users\\Ari\\Desktop\\GitHub Projects\\PCINN\\artifacts\\polymer_new_data_end_to_end",
+  "harmonized_rows": 585,
+  "harmonized_curves": 21,
+  "modeling_subsets": {
+    "primary_mma_flow_conversion": {
+      "rows": 246,
+      "curves": 4
+    },
+    "secondary_sty_flow_conversion": {
+      "rows": 242,
+      "curves": 4
+    }
+  },
+  "validation_status_counts": {
+    "ok": 585
+  },
+  "figure_paths": {
+    "parity": "C:\\Users\\Ari\\Desktop\\GitHub Projects\\PCINN\\artifacts\\polymer_new_data_end_to_end\\figures\\primary_mma_flow_parity.png",
+    "residuals": "C:\\Users\\Ari\\Desktop\\GitHub Projects\\PCINN\\artifacts\\polymer_new_data_end_to_end\\figures\\primary_mma_flow_residuals.png",
+    "curve_overlays": "C:\\Users\\Ari\\Desktop\\GitHub Projects\\PCINN\\artifacts\\polymer_new_data_end_to_end\\figures\\primary_mma_flow_curve_overlays.png",
+    "pca_by_regime": "C:\\Users\\Ari\\Desktop\\GitHub Projects\\PCINN\\artifacts\\polymer_new_data_end_to_end\\figures\\curve_level_pca_by_regime.png",
+    "pca_by_source": "C:\\Users\\Ari\\Desktop\\GitHub Projects\\PCINN\\artifacts\\polymer_new_data_end_to_end\\figures\\curve_level_pca_by_source.png"
+  }
+}

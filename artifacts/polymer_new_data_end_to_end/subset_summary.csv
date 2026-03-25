@@ -1,0 +1,5 @@
+subset_name,rows,curves,measurement_types,temperature_min_C,temperature_max_C,target_rows,modeling_ready
+full_harmonized_dataset,585,21,"Mn, PDI, conversion_kinetics, nmr_conversion",45.0,90.0,585,True
+molecular_weight_exploratory,56,6,"Mn, PDI",45.0,75.0,56,True
+primary_mma_flow_conversion,246,4,conversion_kinetics,60.0,90.0,246,True
+secondary_sty_flow_conversion,242,4,conversion_kinetics,50.0,80.0,242,True

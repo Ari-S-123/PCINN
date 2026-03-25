@@ -1,0 +1,9 @@
+check_name,severity,affected_rows,status,message
+missing_identifiers,error,0,pass,Missing required identifiers.
+conversion_out_of_range,error,0,pass,"Conversion fraction falls outside the expected [0, 1] interval."
+negative_time,error,0,pass,Time or residence time is negative.
+negative_mn,error,0,pass,Mn is non-positive.
+pdi_below_one,warning,0,pass,PDI is below 1.0 and should be reviewed.
+temperature_missing_on_curve,warning,0,pass,Temperature is missing for a temperature-indexed curve family.
+exact_duplicate_rows,warning,0,pass,Exact duplicate row candidate.
+near_duplicate_rows,warning,0,pass,Rounded near-duplicate row candidate.
